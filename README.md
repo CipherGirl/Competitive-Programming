@@ -20,6 +20,7 @@ All Important Codes Related to My Competitive Programming Journey
 
 
 **Good to Know**
+* Resources: https://codeforces.com/blog/entry/23054
 1. Bitset Binary Representation.cpp
 2. Fastscan.cpp
 3. Sublime Build

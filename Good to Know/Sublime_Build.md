@@ -1,4 +1,4 @@
-#Sublime Text Compiling C++ Code
+# Sublime Text Compiling C++ Code
 
 1. Install compiler if you don’t have it. I would suggest use MinGW compiler for Windows because Windows doesn’t have a GNU compiler for C++ language.
 2. After installing, set the path variable to the location where you have installed the compiler.
@@ -14,8 +14,7 @@
  { "name": "Run", "shell_cmd": "g++ -O2 -std=c++11 \"${file}\" -o \"${file_path}\\\\${file_base_name}\" && \"${file_path}\\\\${file_base_name}\" < input.txt" }
  ]
  }
- ```
- 
+ ``` 
 5. Save it. Rename the file as “MyC++Build” or anything you want and save it.
 
 6. Go into Tools > Build System and then Select your Build “MyC++Build”.
@@ -27,4 +26,5 @@
 9. For better usage just open your Sublime with 2 column view.
 
 Just see below.
+
 ![Sublime Text](https://qph.fs.quoracdn.net/main-qimg-f3e7af4913bad2ef08dfe7be14e5dbf5)

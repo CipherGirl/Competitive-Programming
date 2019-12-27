@@ -3,10 +3,10 @@ All Important Codes Related to My Competitive Programming Journey
 
 **Books**
 1. Art of Programming Contest by Ahmed Samsul Arefin
+2. Competitive Programmer's Handbook by Antti Laaksonen
 2. Competitive Progrmming 1
 3. Competitive Progrmming 2
 4. Competitive Progrmming 3
-5. Competitive Programmer's Handbook by Antti Laaksonen
 
 *Algorithm & Data Structure:*
   1. ALGORITHM- Fundamentals of Computer Algorithms - Horowitz & Sahani - 2nd Edition

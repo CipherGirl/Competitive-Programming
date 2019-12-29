@@ -1,9 +1,3 @@
-- [ ] a task list item
-- [ ] list syntax required
-- [ ] normal **formatting**, @mentions, #1234 refs
-- [ ] incomplete
-- [x] completed
-
 <h1 class="entry-title">TODO List from GeeksforGeeks: Top 10 Algorithms and Data Structures for Competitive Programming</h1>
 				
 <p>In this post “Important top 10 algorithms and data structures for competitive coding “.<br>

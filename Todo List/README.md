@@ -16,7 +16,7 @@
 <strong>Graph Algorithms </strong></p>
             
 <ol>
-- [] <li><a href="https://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/">Breadth First Search (BFS)</a></li>
+- [ ] <li><a href="https://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/">Breadth First Search (BFS)</a></li>
 <li><a href="https://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/">Depth First Search (DFS)</a></li>
 <li><a href="https://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/">Shortest Path from source to all vertices **Dijkstra** </a></li>
 <li><a href="https://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm/">Shortest Path from every vertex to every other vertex **Floyd Warshall**</a></li>

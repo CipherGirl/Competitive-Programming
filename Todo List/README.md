@@ -1,4 +1,4 @@
-<h1 class="entry-title">Top 10 Algorithms and Data Structures for Competitive Programming</h1>
+<h1 class="entry-title">TODO List from GeeksforGeeks: Top 10 Algorithms and Data Structures for Competitive Programming</h1>
 				
 <p>In this post “Important top 10 algorithms and data structures for competitive coding “.<br>
 <strong>Topics : </strong></p>

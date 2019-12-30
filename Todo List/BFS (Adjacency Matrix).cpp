@@ -33,8 +33,7 @@ int main()
     int i,m,n,u,v;
 
     cout<<"Number of vertices and edges: "<<endl;
-    //cin>>n>>m;
-    n=10;m=13;
+    cin>>n>>m;
     cout<<"Input Vertices U, V:"<<endl;
     for(i=0;i<m;i++)
     {

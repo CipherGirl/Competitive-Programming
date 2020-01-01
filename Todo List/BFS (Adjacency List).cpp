@@ -37,8 +37,8 @@ void bfs(int n, int s)
 
 int main()
 {
-    int n,m;
-    n=10; m=13;
+    int n;
+    n=10; 
     addEdge(0, 1); 
 	addEdge(0, 2); 
 	addEdge(0, 3);

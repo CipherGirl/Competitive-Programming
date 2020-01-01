@@ -7,6 +7,7 @@ vector<int> adj_list[MAX];
 void addEdge(int u,int v)
 {
 	adj_list[u].push_back(v);
+    adj_list[v].push_back(u);
 }
 
 void BFS(int s,int n)
@@ -20,11 +21,11 @@ void BFS(int s,int n)
 
 	while(!bfs_queue.empty())
 	{
-		s=bfs_queue.front();
-		cout<<s<<" ";
+		int u =bfs_queue.front();
+		cout<<u<<" ";
 		bfs_queue.pop();
 
-		for(it = adj_list[s].begin(); it != adj_list[s].end(); ++it)
+		for(it = adj_list[u].begin(); it != adj_list[u].end(); ++it)
         {
             if(!visited[*it])
             {
